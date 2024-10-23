@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gresperan.github.io/gresperan.gresperan
+Sitemap: https://gresperan.github.io/app/gresperan.gresperan
+Sitemap: https://gresperan.github.io/assets/gresperan.gresperan
+Sitemap: https://gresperan.github.io/css/gresperan.gresperan
+Sitemap: https://gresperan.github.io/includes/gresperan.gresperan
+Sitemap: https://gresperan.github.io/item/gresperan.gresperan
+Sitemap: https://gresperan.github.io/src/gresperan.gresperan
